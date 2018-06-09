@@ -38,6 +38,7 @@ executables:
     - gloss
     - vector
     - random
+    - vector
 
 tests:
   particles-test:
